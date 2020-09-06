@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 scikit-learn
-xgboost
+https://github.com/saattrupdan/scikit-garden/archive/dependency-fix.zip
